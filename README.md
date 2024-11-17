@@ -41,3 +41,5 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,nmap,typescript,express,firebase,linux,c,java,nextjs,mysql,kali" /><br>
 </div>
+
+https://share.note.sx/1vz4s727#h1MRVySfLPTJyYyEAylITo4c8nb+y3PwVVj6ZHMuaCE
