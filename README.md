@@ -1,3 +1,15 @@
+public class LowercaseAlphabets {
+    public static void main(String[] args) {
+        System.out.println("Lowercase alphabets:");
+        for (char ch = 'a'; ch <= 'z'; ch++) {
+            System.out.print(ch + " ");
+        }
+    }
+}
+
+
+
+
 import java.util.Scanner;
 
 public class AverageCalculator {
