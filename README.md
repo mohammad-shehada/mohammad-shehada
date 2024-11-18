@@ -43,6 +43,14 @@
 </div>
 
 https://share.note.sx/1vz4s727#h1MRVySfLPTJyYyEAylITo4c8nb+y3PwVVj6ZHMuaCE
+
+
+[1.docx](https://github.com/user-attachments/files/17797230/1.docx)
+
+
+
+
+
 Example: Program to Add Two Integers
 class Main {
 
