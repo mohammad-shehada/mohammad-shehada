@@ -39,3 +39,4 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,nmap,typescript,express,firebase,linux,c,java,nextjs,mysql,kali" /><br>
 </div>
+https://share.note.sx/zg96cequ#60qc14X6Pn/knJOhzDkXmE+F+VgW1OvTblNAlpZlp8A
